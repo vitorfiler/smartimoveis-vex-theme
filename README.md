@@ -1,0 +1,1 @@
+# smartimoveis-vex-theme
